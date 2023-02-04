@@ -5,4 +5,5 @@
 |No.|Archivo|Descripcion|
 |--|--|--|
 |1|dos_febrero.py|Mostrar el precio iva de un producto con valor de 670 y su precio final|
-|2|tres_febrero.py|Calcular la longuitud de la hipotenusa de un  triangulo rectangulo
+|2|tres_febrero.py|Calcular la longuitud de la hipotenusa de un  triangulo rectangulo|
+|3|cuatro_febrero.py|Sacar el area de un rectangulo|
