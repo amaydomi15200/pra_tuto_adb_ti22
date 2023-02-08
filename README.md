@@ -8,3 +8,4 @@
 |2|tres_febrero.py|Calcular la longuitud de la hipotenusa de un  triangulo rectangulo|
 |3|cuatro_febrero.py|Sacar el area de un rectangulo|
 |4|cinco_febrero.py|Determinar si un estudiante aprobo un examen o lo reprobo|
+|5|seis_febrero.py| Determinar si un estudiante aprobo la materia o la reprobo pidiendo 3 calicficaciones|
