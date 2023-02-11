@@ -1,5 +1,5 @@
 """
-    Programa 8
+    Programa 9
     Nombre:Amayrani DB
     Fecha: 11/02/23
     Descripcion: Operadores de comparacion 
