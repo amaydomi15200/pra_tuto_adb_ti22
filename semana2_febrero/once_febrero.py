@@ -1,7 +1,7 @@
 """
     Programa 8
     Nombre:Amayrani DB
-    Fecha: 10/02/23
+    Fecha: 11/02/23
     Descripcion: Operadores de comparacion 
 """
 x = int(input("escribe un mumero cualquiera: "))  #te indica escribir el numero que desees
