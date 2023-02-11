@@ -9,3 +9,6 @@
 |3|cuatro_febrero.py|Sacar el area de un rectangulo|
 |4|cinco_febrero.py|Determinar si un estudiante aprobo un examen o lo reprobo|
 |5|seis_febrero.py| Determinar si un estudiante aprobo la materia o la reprobo pidiendo 3 calicficaciones|
+|6|siete_febrero.py|Programa 11 versiones de encontrar el mayor de dos numeros|
+|7|programa9.py|Programa que por medio de un def nos de el numero mayor de dos numeros|
+|8|diez_febrero.py|Hacer una suma de dos numeros utilizando la funcion def|
