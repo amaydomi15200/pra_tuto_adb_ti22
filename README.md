@@ -13,3 +13,4 @@
 |7|programa9.py|Programa que por medio de un def nos de el numero mayor de dos numeros|
 |8|diez_febrero.py|Hacer una suma de dos numeros utilizando la funcion def|
 |9|once_febrero.py|Operadores de comparacion|
+|10|doce_febrero.py|Operadores in situ|
