@@ -9,10 +9,10 @@ class Persona:
     escuela = ''
 
     def print_nombre(self):
-        print self.nombre
+        print__self.nombre
 
     def print_escuela(self):
-        print self.escuela
+        print__self.escuela
 
 amayrani = Persona()
 amayrani.nombre = 'Amayrani'
