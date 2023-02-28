@@ -14,3 +14,7 @@
 |8|diez_febrero.py|Hacer una suma de dos numeros utilizando la funcion def|
 |9|once_febrero.py|Operadores de comparacion|
 |10|doce_febrero.py|Operadores in situ|
+|11|febrero13.py|Programa que utiliza clase persona e imprime el nombre y correo|
+|12|febrero14.py|Herencia|
+|13|febrero16.py|decide si es falso a lo que le manda|
+|14|febrero23.py|Clase persona escuela|
