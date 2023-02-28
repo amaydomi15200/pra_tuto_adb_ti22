@@ -18,3 +18,4 @@
 |12|febrero14.py|Herencia|
 |13|febrero16.py|decide si es falso a lo que le manda|
 |14|febrero23.py|Clase persona escuela|
+|15|febrero27.py|Clase animal que permite procesar informacion de los animalesque se encuentran en una veterinaria|
